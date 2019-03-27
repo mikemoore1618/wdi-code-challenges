@@ -1,3 +1,5 @@
+//this is an example of how the bubble soret works
+
 var myArray = [4, 2, 1, 9, 5]
 
 function swap(arr, a, b) {
