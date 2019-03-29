@@ -1,4 +1,4 @@
-//this is an example of how the bubble soret works
+//this is an example of how the bubble sort works
 
 var myArray = [4, 2, 1, 9, 5]
 
