@@ -1,3 +1,5 @@
+
+//what is this?
 const encode = (text, encoded) => {
     let a = 'abcdefghijklmnopqrstuvwxyz'.split('')
     let encoded_letter = a[(a.indexOf(text[0])+ 13) % 26]
