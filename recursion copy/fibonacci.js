@@ -24,7 +24,7 @@ function fibonacci(n) {
   console.log(fibonacci(3))
 
 
-  //    TAIL END WAY!!!
+  //  TAIL END WAY!!!
 
   const fib = (n, a = 1, b = 0) =>  (n === 0) ? b : fib(n - 1, a + b, a)
 
